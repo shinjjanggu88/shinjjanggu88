@@ -1,10 +1,12 @@
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=shinjjanggu88&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/shinjjanggu88"
-    width="700"
-    height="500"
+    src="https://render.gitanimals.org/lines/shinjjanggu88?pet-id=851627679826975616"
+    width="600"
+    height="200"
   />
 </a>
+  
   
 ## 👋 About Me
 - 저는 **김서율** 입니다 
