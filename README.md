@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{shinjjanggu88}?pet-id=10000000" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{shinjjanggu88}?pet-id=100000000000000000000" width="1000" height="120"/>
 </a>
 
 
