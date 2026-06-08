@@ -1,11 +1,12 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=shinjjanggu88&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/shinjjanggu88?pet-id=851627679826975616"
-    width="800"
+    src="https://render.gitanimals.org/lines/shinjjanggu88?pet-id=851657147505320053"
+    width="1000"
     height="200"
   />
 </a>
+  
   
   
 ## 👋 About Me
