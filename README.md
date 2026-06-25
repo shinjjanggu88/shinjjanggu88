@@ -2,9 +2,9 @@
 <img
   src="https://render.gitanimals.org/farms/shinjjanggu88"
   width="600"
-  height="300" 
+  height="300"
 />
-</a> 
+</a>
  
 ## 👋 About Me 
 - 저는 **김서율** 입니다   
