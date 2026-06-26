@@ -2,7 +2,7 @@
 <img
   src="https://render.gitanimals.org/farms/shinjjanggu88"
   width="1200" 
-  height="300"
+  height="500"
 />
 </a>
  
