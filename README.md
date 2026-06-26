@@ -1,8 +1,8 @@
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=shinjjanggu88&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/shinjjanggu88"
-  width="1200" 
-  height="500"
+  width="600" 
+  height="400"
 />
 </a>
  
