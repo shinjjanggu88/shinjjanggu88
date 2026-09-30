@@ -28,6 +28,6 @@
 ---
 
 ## 📫 Contact
-- GitHub : https://github.com/shinjjanggu88
+-Gmail : seoyulg453@gmail.com
 
 ---
